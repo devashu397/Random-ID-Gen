@@ -1,0 +1,23 @@
+{
+  "name": "random-id-gen",
+  "version": "1.0.0",
+  "description": "Generate random ids for your projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ItzAshu397/Random-ID-Gen.git"
+  },
+  "keywords": [
+    "id",
+    "ids"
+  ],
+  "author": "Ashutosh Swamy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ItzAshu397/Random-ID-Gen/issues"
+  },
+  "homepage": "https://github.com/ItzAshu397/Random-ID-Gen#readme"
+}
